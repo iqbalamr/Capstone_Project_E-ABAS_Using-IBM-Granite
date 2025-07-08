@@ -17,7 +17,7 @@ Proyek ini mendemonstrasikan pembangunan sistem **E-ABAS (Emotion-Aspect Based A
 
 ### ✨ Insight Kunci: Peta Masalah Operasional
 
-Salah satu temuan utama dari 400 ulasan yang dianalisis adalah korelasi kuat antara emosi pelanggan dengan aspek layanan tertentu, yang divisualisasikan dalam *heatmap* di bawah ini.
+Salah satu temuan utama dari 300 ulasan yang dianalisis adalah korelasi kuat antara emosi pelanggan dengan aspek layanan tertentu, yang divisualisasikan dalam *heatmap* di bawah ini.
 
 ![Heatmap Korelasi Emosi vs Aspek](https://github.com/iqbalamr/Capstone_Project_E-ABAS_Using-IBM-Granite/blob/main/Visualisasi/heatmap_emosi_vs_aspek.png)
 *Visualisasi ini menunjukkan bahwa keluhan **pengiriman** adalah pemicu **kemarahan** terbesar, sementara isu **kualitas produk** lebih sering menimbulkan **kekecewaan (sedih)**.*
